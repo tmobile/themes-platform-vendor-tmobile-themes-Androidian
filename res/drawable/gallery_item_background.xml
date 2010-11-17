@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <!-- When the window does not have focus. -->
+    
+    <item android:drawable="@drawable/gallery_selected_default" 
+        android:state_selected="true"
+        android:state_window_focused="false"
+        />
+        
+    <item android:drawable="@drawable/gallery_unselected_default" 
+        android:state_selected="false"
+        android:state_window_focused="false"
+        />
+    
+    
+    <!-- When the window does have focus. -->
+        
+    <item android:drawable="@drawable/gallery_selected_pressed" 
+        android:state_selected="true"
+        android:state_pressed="true"
+        />
+        
+    <item android:drawable="@drawable/gallery_selected_focused" 
+        android:state_selected="true"
+        android:state_focused="true"
+        />
+        
+    <item android:drawable="@drawable/gallery_selected_default" 
+        android:state_selected="true"
+        />
+        
+    <item android:drawable="@drawable/gallery_unselected_pressed" 
+        android:state_selected="false"
+        android:state_pressed="true"
+        />
+        
+    <item android:drawable="@drawable/gallery_unselected_default" 
+        />
+        
+</selector>

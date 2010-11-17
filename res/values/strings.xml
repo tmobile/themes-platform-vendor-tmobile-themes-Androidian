@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Androidian Theme</string>
+    <string name="theme_name">Androidian</string>
+    <string name="style_appearance_name">Androidian</string>
+    <string name="author">T-Mobile MSD</string>
+    <string name="copyright">T-Mobile</string>
+</resources>

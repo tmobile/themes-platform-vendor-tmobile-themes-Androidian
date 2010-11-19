@@ -16,24 +16,24 @@
  -->
 
 <manifest
-        xmlns:android="http://schemas.android.com/apk/res/android"
-        package="com.tmobile.theme.Androidian"
-        xmlns:pluto="http://www.w3.org/2001/pluto.html"
-        android:hasCode="false">
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:pluto="http://www.w3.org/2001/pluto.html"
+    package="com.tmobile.theme.Androidian"
+    android:hasCode="false">
 
     <theme
-            pluto:themeId="Androidian"
-            pluto:styleId="@style/Androidian"
-            pluto:name="@string/theme_name"
-            pluto:thumbnail="media/images/thumb.png"
-            pluto:preview="media/images/preview.png"
-            pluto:author="@string/author"
-            pluto:copyright="@string/copyright"
-            pluto:wallpaperImage="media/images/homescreen.jpg"
-            pluto:styleName="@string/style_appearance_name"
-            pluto:ringtoneName="Whistler"
-            pluto:ringtoneFileName="media/audio/ringtones/Whistler.mp3"
-            pluto:notificationRingtoneName="Spacious"
-            pluto:notificationRingtoneFileName="media/audio/notifications/Spacious.mp3"/>
+        pluto:themeId="Androidian"
+        pluto:styleId="@style/Androidian"
+        pluto:name="@string/theme_name"
+        pluto:thumbnail="media/images/thumb.png"
+        pluto:preview="media/images/preview.png"
+        pluto:author="@string/author"
+        pluto:copyright="@string/copyright"
+        pluto:wallpaperImage="media/images/homescreen.jpg"
+        pluto:styleName="@string/style_appearance_name"
+        pluto:ringtoneName="Whistler"
+        pluto:ringtoneFileName="media/audio/ringtones/Whistler.mp3"
+        pluto:notificationRingtoneName="Spacious"
+        pluto:notificationRingtoneFileName="media/audio/notifications/Spacious.mp3"/>
 
 </manifest>

@@ -81,7 +81,9 @@
         <item name="android_tabIndicatorBackground">@drawable/tab_indicator</item>
 
         <!-- Launcher styles -->
-       <item name="com_android_launcher_workspaceIconBackground">@drawable/shortcut_selector</item>
+        <item name="com_android_launcher_workspaceIconBackground">@drawable/shortcut_selector</item>
+        <item name="com_android_launcher_apps3DGlowColorPressed">@color/launcher_glow_pressed</item>
+        <item name="com_android_launcher_apps3DGlowColorFocused">@color/launcher_glow_focused</item>
     </style>
 
     <style name="Theme.Light" parent="@android:style/Theme.Light">

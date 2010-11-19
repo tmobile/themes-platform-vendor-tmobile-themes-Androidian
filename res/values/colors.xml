@@ -79,5 +79,8 @@
     <color name="perms_dangerous_perm_color">#ff66cc00</color>
     <color name="shadow">#cc222222</color>
 
+    <color name="launcher_glow_pressed">#ffe0f840</color>
+    <color name="launcher_glow_focused">#ffb2ca11</color>
+
 </resources>
 

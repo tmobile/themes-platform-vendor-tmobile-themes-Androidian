@@ -82,6 +82,10 @@
 
         <!-- Launcher styles -->
         <item name="com_android_launcher_workspaceIconBackground">@drawable/shortcut_selector</item>
+        <item name="com_android_launcher_hotseatButtonPhone">@drawable/hotseat_phone</item>
+        <item name="com_android_launcher_hotseatButtonBrowser">@drawable/hotseat_browser</item>
+        <item name="com_android_launcher_hotseatButtonAllApps">@drawable/all_apps_button</item>
+        <item name="com_android_launcher_buttonHome">@drawable/home_button</item>
         <item name="com_android_launcher_apps3DGlowColorPressed">@color/launcher_glow_pressed</item>
         <item name="com_android_launcher_apps3DGlowColorFocused">@color/launcher_glow_focused</item>
     </style>

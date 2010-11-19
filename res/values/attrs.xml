@@ -5,6 +5,10 @@
 
     <!-- Launcher attributes -->
     <attr name="com_android_launcher_workspaceIconBackground" format="reference" />
+    <attr name="com_android_launcher_hotseatButtonPhone" format="reference" />
+    <attr name="com_android_launcher_hotseatButtonBrowser" format="reference" />
+    <attr name="com_android_launcher_hotseatButtonAllApps" format="reference" />
+    <attr name="com_android_launcher_buttonHome" format="reference" />
     <attr name="com_android_launcher_apps3DGlowColorPressed" format="reference" />
     <attr name="com_android_launcher_apps3DGlowColorFocused" format="reference" />
 

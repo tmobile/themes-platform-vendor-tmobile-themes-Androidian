@@ -171,12 +171,7 @@
         <item name="android:progressDrawable">@drawable/progress_horizontal</item>
     </style>
 
-    <!--style name="Widget.TabIndicator" parent="android:style/Widget.TabIndicator">
-        <item name="android:background">@drawable/tab_indicator</item>
-    </style-->
-
     <style name="Widget.TabWidget" parent="android:style/Widget.TabWidget">
-        <item name="android:background">@color/background_dark</item>
         <item name="android:tabStripLeft">@drawable/tab_bottom_left</item>
         <item name="android:tabStripRight">@drawable/tab_bottom_right</item>
     </style>

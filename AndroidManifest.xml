@@ -34,6 +34,13 @@
         pluto:ringtoneName="Whistler"
         pluto:ringtoneFileName="media/audio/ringtones/Whistler.mp3"
         pluto:notificationRingtoneName="Spacious"
-        pluto:notificationRingtoneFileName="media/audio/notifications/Spacious.mp3"/>
+        pluto:notificationRingtoneFileName="media/audio/notifications/Spacious.mp3">
+
+        <!-- Currently this is not being read, but instead the redirections are
+             inferred from the convention res/xml/<package_name>.xml. -->
+        <meta-data android:name="com.tmobile.theme.redirections"
+            android:resource="@xml/redirections" />
+
+    </theme>
 
 </manifest>

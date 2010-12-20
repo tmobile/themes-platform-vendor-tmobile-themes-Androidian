@@ -15,10 +15,7 @@
  # limitations under the License.
  -->
 
-<resource-redirections
-    xmlns:android="http://schemas.android.com/apk/res/android">
-
-    <resource-redirection android:name="@android:drawable/list_selector_background"
-        android:id="@drawable/list_selector_background" />
-
+<resource-redirections>
+    <item name="drawable/list_selector_background">@drawable/list_selector_background</item>
+    <item name="drawable/tab_indicator">@drawable/tab_indicator</item>
 </resource-redirections>

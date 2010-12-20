@@ -15,16 +15,13 @@
  # limitations under the License.
  -->
 
-<resource-redirections
-    xmlns:android="http://schemas.android.com/apk/res/android">
-
+<resource-redirections>
     <item name="drawable/shortcut_selector">@drawable/shortcut_selector</item>
     <item name="drawable/grid_selector">@drawable/grid_selector</item>
     <item name="drawable/hotseat_phone">@drawable/hotseat_phone</item>
     <item name="drawable/hotseat_browser">@drawable/hotseat_browser</item>
     <item name="drawable/all_apps_button">@drawable/all_apps_button</item>
     <item name="drawable/home_button">@drawable/home_button</item>
-    <item name="color/launcher_glow_pressed">@color/launcher_glow_pressed</item>
-    <item name="color/launcher_glow_focused">@color/launcher_glow_focused</item>
-
+    <item name="color/apps3d_glow_pressed">@color/launcher_glow_pressed</item>
+    <item name="color/apps3d_glow_focused">@color/launcher_glow_focused</item>
 </resource-redirections>

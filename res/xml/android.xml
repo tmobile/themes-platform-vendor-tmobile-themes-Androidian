@@ -18,4 +18,5 @@
 <resource-redirections>
     <item name="drawable/list_selector_background">@drawable/list_selector_background</item>
     <item name="drawable/tab_indicator">@drawable/tab_indicator</item>
+    <item name="drawable/menu_selector">@drawable/menu_selector</item>
 </resource-redirections>

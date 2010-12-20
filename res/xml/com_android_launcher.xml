@@ -19,6 +19,7 @@
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item name="drawable/shortcut_selector">@drawable/shortcut_selector</item>
+    <item name="drawable/grid_selector">@drawable/grid_selector</item>
     <item name="drawable/hotseat_phone">@drawable/hotseat_phone</item>
     <item name="drawable/hotseat_browser">@drawable/hotseat_browser</item>
     <item name="drawable/all_apps_button">@drawable/all_apps_button</item>

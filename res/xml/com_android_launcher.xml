@@ -18,10 +18,15 @@
 <resource-redirections>
     <item name="drawable/shortcut_selector">@drawable/shortcut_selector</item>
     <item name="drawable/grid_selector">@drawable/grid_selector</item>
-    <item name="drawable/hotseat_phone">@drawable/hotseat_phone</item>
-    <item name="drawable/hotseat_browser">@drawable/hotseat_browser</item>
-    <item name="drawable/all_apps_button">@drawable/all_apps_button</item>
-    <item name="drawable/home_button">@drawable/home_button</item>
+    <item name="drawable/hotseat_bg_center">@drawable/com_android_launcher_hotseat_bg_center</item>
+    <item name="drawable/hotseat_bg_left">@drawable/com_android_launcher_hotseat_bg_left</item>
+    <item name="drawable/hotseat_bg_right">@drawable/com_android_launcher_hotseat_bg_right</item>
+    <item name="drawable/hotseat_phone">@drawable/com_android_launcher_hotseat_phone</item>
+    <item name="drawable/hotseat_browser">@drawable/com_android_launcher_hotseat_browser</item>
+    <item name="drawable/all_apps_button">@drawable/com_android_launcher_all_apps_button</item>
+    <item name="drawable/home_button">@drawable/com_android_launcher_home_button</item>
+    <item name="drawable/home_arrows_left">@drawable/com_android_launcher_home_arrows_left</item>
+    <item name="drawable/home_arrows_right">@drawable/com_android_launcher_home_arrows_right</item>
     <item name="color/apps3d_glow_pressed">@color/launcher_glow_pressed</item>
     <item name="color/apps3d_glow_focused">@color/launcher_glow_focused</item>
 </resource-redirections>

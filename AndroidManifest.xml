@@ -21,6 +21,9 @@
     package="com.tmobile.theme.Androidian"
     android:hasCode="false">
 
+    <!-- Make sure this theme APK only shows up on appropriate devices. -->
+    <uses-feature android:name="com.tmobile.software.themes" />
+
     <theme
         pluto:themeId="Androidian"
         pluto:styleId="@style/Androidian"

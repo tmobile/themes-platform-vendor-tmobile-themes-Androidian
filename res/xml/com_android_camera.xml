@@ -15,20 +15,10 @@
  # limitations under the License.
  -->
 
-<theme-redirections
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:pluto="http://www.w3.org/2001/pluto.html">
-
-    <package-redirections android:name="android"
-        android:minSdkVersion="7"
-        android:resource="@xml/android" />
-
-    <package-redirections android:name="com.android.launcher"
-        android:minSdkVersion="7"
-        android:resource="@xml/com_android_launcher" />
-
-    <package-redirections android:name="com.android.camera"
-        android:minSdkVersion="7"
-        android:resource="@xml/com_android_camera" />
-
-</theme-redirections>
+<resource-redirections>
+    <item name="drawable/camera_background">@drawable/com_android_camera_background</item>
+    <item name="drawable/border_last_picture">@drawable/com_android_camera_border_last_picture</item>
+    <item name="drawable/btn_camera_review">@drawable/com_android_camera_btn_camera_review</item>
+    <item name="drawable/btn_mode_switch_knob">@drawable/com_android_camera_btn_mode_switch_knob</item>
+    <item name="drawable/btn_shutter">@drawable/com_android_camera_btn_shutter</item>
+</resource-redirections>

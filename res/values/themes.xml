@@ -55,20 +55,16 @@
 
         <!-- Widget styles -->
         <item name="android:autoCompleteTextViewStyle">@style/Widget.AutoCompleteTextView</item>
-        <item name="android:checkboxStyle">@style/Widget.Button.CompoundButton.CheckBox</item>
-        <item name="android:editTextStyle">@style/Widget.EditText</item>
         <item name="android:gridViewStyle">@style/Widget.GridView</item>
         <item name="android:imageButtonStyle">@style/Widget.ImageButton</item>
-        <item name="android:popupWindowStyle">@style/Widget.PopupWindow</item>
         <item name="android:progressBarStyleHorizontal">@style/Widget.ProgressBar.Horizontal</item>
         <item name="android:seekBarStyle">@style/Widget.SeekBar</item>
         <item name="android:ratingBarStyle">@style/Widget.RatingBar</item>
         <item name="android:ratingBarStyleIndicator">@style/Widget.RatingBar.Indicator</item>
         <item name="android:ratingBarStyleSmall">@style/Widget.RatingBar.Small</item>
-        <item name="android:radioButtonStyle">@style/Widget.Button.CompoundButton.RadioButton</item>
+        <item name="android:radioButtonStyle">@style/Widget.CompoundButton.RadioButton</item>
         <item name="android:spinnerStyle">@style/Widget.Spinner</item>
-        <item name="android:starStyle">@style/Widget.Button.CompoundButton.Star</item>
-        <item name="android:tabWidgetStyle">@style/Widget.TabWidget</item>
+        <item name="android:starStyle">@style/Widget.CompoundButton.Star</item>
         <item name="android:textViewStyle">@style/Widget.TextView</item>
         <item name="android:webTextViewStyle">@style/Widget.WebTextView</item>
         <item name="android:quickContactBadgeStyleWindowSmall">@style/Widget.QuickContactBadge.WindowSmall</item>
@@ -84,12 +80,9 @@
         <item name="android:windowTitleBackgroundStyle">@style/WindowTitleBackground</item>
         <item name="android:windowTitleStyle">@style/WindowTitle</item>
         <item name="android:windowTitleSize">35dip</item>
-        <item name="android:windowAnimationStyle">@style/Animation.Activity</item>
         <item name="android:colorBackground">@color/background_light</item>
         <item name="android:colorForeground">@color/bright_foreground_light</item>
         <item name="android:colorForegroundInverse">@color/bright_foreground_light_inverse</item>
-
-        <item name="android:popupWindowStyle">@style/Widget.PopupWindow</item>
 
         <item name="android:textCheckMark">@drawable/indicator_check_mark_light</item>
         <item name="android:textCheckMarkInverse">@drawable/indicator_check_mark_dark</item>

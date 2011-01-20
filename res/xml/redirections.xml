@@ -31,4 +31,24 @@
         android:minSdkVersion="7"
         android:resource="@xml/com_android_camera" />
 
+    <package-redirections android:name="com.android.music"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_android_music" />
+
+    <package-redirections android:name="com.android.email"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_android_email" />
+
+    <package-redirections android:name="com.android.phone"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_android_phone" />
+
+    <package-redirections android:name="com.android.contacts"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_android_contacts" />
+
+    <package-redirections android:name="com.android.deskclock"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_android_deskclock" />
+
 </theme-redirections>

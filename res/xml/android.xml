@@ -17,6 +17,25 @@
 
 <resource-redirections>
     <item name="drawable/list_selector_background">@drawable/list_selector_background</item>
-    <item name="drawable/tab_indicator">@drawable/tab_indicator</item>
+    <item name="drawable/tab_press_bar_left">@drawable/frameworks_res_tab_press_bar_left</item>
+    <item name="drawable/tab_focus_bar_left">@drawable/frameworks_res_tab_focus_bar_left</item>
+    <item name="drawable/tab_press_bar_right">@drawable/frameworks_res_tab_press_bar_right</item>
+    <item name="drawable/tab_focus_bar_right">@drawable/frameworks_res_tab_focus_bar_right</item>
+    <item name="drawable/tab_press">@drawable/frameworks_res_tab_press</item>
+    <item name="drawable/tab_focus">@drawable/frameworks_res_tab_focus</item>
     <item name="drawable/menu_selector">@drawable/menu_selector</item>
+    <item name="drawable/btn_check">@drawable/android_widget_btn_check</item>
+    <item name="drawable/overscroll_edge">@drawable/frameworks_res_overscroll_edge</item>
+    <item name="drawable/overscroll_glow">@drawable/frameworks_res_overscroll_glow</item>
+    <item name="drawable/textfield_pressed">@drawable/android_widget_textfield_pressed</item>
+    <item name="drawable/textfield_selected">@drawable/android_widget_textfield_selected</item>
+    <item name="drawable/textfield_disabled_selected">@drawable/android_widget_textfield_disabled_selected</item>
+    <item name="drawable/timepicker_down_disabled_focused">@drawable/frameworks_res_timepicker_down_disabled_focused</item>
+    <item name="drawable/timepicker_down_pressed">@drawable/frameworks_res_timepicker_down_pressed</item>
+    <item name="drawable/timepicker_down_selected">@drawable/frameworks_res_timepicker_down_selected</item>
+    <item name="drawable/timepicker_input_pressed">@drawable/frameworks_res_timepicker_input_pressed</item>
+    <item name="drawable/timepicker_input_selected">@drawable/frameworks_res_timepicker_input_selected</item>
+    <item name="drawable/timepicker_up_disabled_focused">@drawable/frameworks_res_timepicker_up_disabled_focused</item>
+    <item name="drawable/timepicker_up_pressed">@drawable/frameworks_res_timepicker_up_pressed</item>
+    <item name="drawable/timepicker_up_selected">@drawable/frameworks_res_timepicker_up_selected</item>
 </resource-redirections>

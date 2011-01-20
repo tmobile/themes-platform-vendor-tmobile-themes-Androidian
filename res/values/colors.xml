@@ -57,14 +57,6 @@
     <color name="dim_foreground_light_inverse_disabled">#80bebebe</color>
     <color name="hint_foreground_light">#808080</color>
 
-    <drawable name="dialog_frame">@drawable/panel_background</drawable>
-    <drawable name="alert_dark_frame">@drawable/popup_full_dark</drawable>
-    <drawable name="alert_light_frame">@drawable/popup_full_bright</drawable>
-    <drawable name="menu_frame">@drawable/menu_background</drawable>
-    <drawable name="menu_full_frame">@drawable/menu_background_fill_parent_width</drawable>
-    <drawable name="editbox_dropdown_dark_frame">@drawable/editbox_dropdown_background_dark</drawable>
-    <drawable name="editbox_dropdown_light_frame">@drawable/editbox_dropdown_background</drawable>
-
     <drawable name="input_method_fullscreen_background">#fff9f9f9</drawable>
 
     <!-- For date picker widget -->

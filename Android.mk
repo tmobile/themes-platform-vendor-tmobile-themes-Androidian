@@ -5,6 +5,6 @@ LOCAL_MODULE_TAGS := optional
 
 LOCAL_PACKAGE_NAME := Androidian
 
-LOCAL_AAPT_FLAGS := -x 10
+LOCAL_AAPT_FLAGS := -c mdpi,hdpi -x 10
 
 include $(BUILD_PACKAGE)

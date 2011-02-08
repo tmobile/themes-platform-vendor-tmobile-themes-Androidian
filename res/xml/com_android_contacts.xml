@@ -27,6 +27,9 @@
     <item name="drawable/btn_dial_action_right_selected">@drawable/com_android_phone_btn_dial_action_right_selected</item>
     <item name="drawable/btn_dial_pressed">@drawable/com_android_phone_btn_dial_pressed</item>
     <item name="drawable/btn_dial_selected">@drawable/com_android_phone_btn_dial_selected</item>
+    <item name="drawable/btn_dial_textfield_activated">@drawable/com_android_phone_btn_dial_textfield_activated</item>
+    <item name="drawable/btn_dial_textfield_pressed">@drawable/com_android_phone_btn_dial_textfield_pressed</item>
+    <item name="drawable/btn_dial_textfield_selected">@drawable/com_android_phone_btn_dial_textfield_selected</item>
     <item name="drawable/quickcontact_slider_btn_pressed">@drawable/com_android_contacts_quickcontact_slider_btn_pressed</item>
     <item name="drawable/quickcontact_slider_btn_selected">@drawable/com_android_contacts_quickcontact_slider_btn_selected</item>
     <item name="drawable/contact_picture_border_highlight">@drawable/com_android_contacts_contact_picture_border_highlight</item>
@@ -34,4 +37,9 @@
     <item name="drawable/btn_circle_disable_focused">@drawable/com_android_contacts_btn_circle_disable_focused</item>
     <item name="drawable/btn_circle_pressed">@drawable/com_android_contacts_btn_circle_pressed</item>
     <item name="drawable/btn_circle_selected">@drawable/com_android_contacts_btn_circle_selected</item>
+    <item name="drawable/ic_launcher_phone">@drawable/com_android_phone_ic_launcher_phone</item>
+    <item name="drawable/ic_launcher_contacts">@drawable/com_android_phone_ic_launcher_contacts</item>
+    <item name="drawable/ic_launcher_folder_live_contacts_phone">@drawable/com_android_phone_ic_launcher_folder_live_contacts_phone</item>
+    <item name="drawable/ic_launcher_folder_live_contacts_starred">@drawable/com_android_phone_ic_launcher_folder_live_contacts_starred</item>
+    <item name="drawable/ic_launcher_folder_live_contacts">@drawable/com_android_phone_ic_launcher_folder_live_contacts</item>
 </resource-redirections>

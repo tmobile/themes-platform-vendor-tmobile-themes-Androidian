@@ -22,4 +22,12 @@
     <item name="drawable/btn_strip_trans_middle_selected">@drawable/com_android_deskclock_btn_strip_trans_middle_selected</item>
     <item name="drawable/btn_strip_trans_right_pressed">@drawable/com_android_deskclock_btn_strip_trans_right_pressed</item>
     <item name="drawable/btn_strip_trans_right_selected">@drawable/com_android_deskclock_btn_strip_trans_right_selected</item>
+    <item name="drawable/list_selector_background_pressed">@drawable/frameworks_res_list_selector_background_pressed</item>
+    <item name="drawable/btn_in_call_round_pressed">@drawable/com_android_deskclock_btn_in_call_round_pressed</item>
+    <item name="drawable/btn_in_call_round_selected">@drawable/com_android_deskclock_btn_in_call_round_selected</item>
+    <item name="drawable/btn_in_call_round_disable_focused">@drawable/com_android_deskclock_btn_in_call_round_disable_focused</item>
+    <item name="drawable/ic_indicator_on">@drawable/com_android_deskclock_ic_indicator_on</item>
+    <item name="drawable/appwidget_clock_hour">@drawable/com_android_deskclock_appwidget_clock_hour</item>
+    <item name="drawable/appwidget_clock_minute">@drawable/com_android_deskclock_appwidget_clock_minute</item>
+    <item name="drawable/ic_widget_analog_clock">@drawable/com_android_deskclock_ic_widget_analog_clock</item>
 </resource-redirections>

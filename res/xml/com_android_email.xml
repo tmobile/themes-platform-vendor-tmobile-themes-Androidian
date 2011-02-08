@@ -26,4 +26,5 @@
     <item name="drawable/bg_arrow_press">@drawable/com_android_email_bg_arrow_press</item>
     <item name="drawable/one_pixel_border_pressed">@drawable/com_android_email_one_pixel_border_pressed</item>
     <item name="drawable/one_pixel_border_selected">@drawable/com_android_email_one_pixel_border_selected</item>
+    <item name="drawable/icon">@drawable/com_android_email_ic_launcher_email</item>
 </resource-redirections>

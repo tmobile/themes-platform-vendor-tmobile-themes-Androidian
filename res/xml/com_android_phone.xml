@@ -42,4 +42,9 @@
     <item name="drawable/btn_dial_action_right_selected">@drawable/com_android_phone_btn_dial_action_right_selected</item>
     <item name="drawable/btn_dial_pressed">@drawable/com_android_phone_btn_dial_pressed</item>
     <item name="drawable/btn_dial_selected">@drawable/com_android_phone_btn_dial_selected</item>
+    <item name="drawable/btn_dial_textfield_activated">@drawable/com_android_phone_btn_dial_textfield_activated</item>
+    <item name="drawable/btn_dial_textfield_pressed">@drawable/com_android_phone_btn_dial_textfield_pressed</item>
+    <item name="drawable/btn_dial_textfield_selected">@drawable/com_android_phone_btn_dial_textfield_selected</item>
+    <item name="drawable/ic_launcher_phone">@drawable/com_android_phone_ic_launcher_phone</item>
+    <item name="drawable/ic_launcher_sip_call">@drawable/com_android_phone_ic_launcher_sip_call</item>
 </resource-redirections>

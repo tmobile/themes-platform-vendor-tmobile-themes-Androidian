@@ -19,8 +19,8 @@
 -->
 
 <resources>
-	<drawable name="screen_background_light">#ffffffff</drawable>
-	<drawable name="screen_background_dark">#ff000000</drawable>
+    <drawable name="screen_background_light">#ffffffff</drawable>
+    <drawable name="screen_background_dark">#ff000000</drawable>
     <drawable name="status_bar_closed_default_background">#ff000000</drawable>
     <drawable name="status_bar_opened_default_background">#ff000000</drawable>
     <drawable name="search_bar_default_color">#ff000000</drawable>
@@ -35,6 +35,7 @@
     <drawable name="screen_background_light_transparent">#80ffffff</drawable>
     <color name="safe_mode_text">#80ffffff</color>
     <color name="color_primary_focus">#ff99cc00</color>
+    <color name="color_primary_press">#ffe0f840</color>
     <color name="white">#ffffffff</color>
     <color name="black">#ff000000</color>
     <color name="transparent">#00000000</color>

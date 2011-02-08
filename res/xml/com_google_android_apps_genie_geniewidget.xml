@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ # Copyright (C) 2010, T-Mobile USA, Inc.
+ #
+ # Licensed under the Apache License, Version 2.0 (the "License");
+ # you may not use this file except in compliance with the License.
+ # You may obtain a copy of the License at
+ #
+ #      http://www.apache.org/licenses/LICENSE-2.0
+ #
+ # Unless required by applicable law or agreed to in writing, software
+ # distributed under the License is distributed on an "AS IS" BASIS,
+ # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ # See the License for the specific language governing permissions and
+ # limitations under the License.
+ -->
+
+<resource-redirections>
+    <item name="drawable/appwidget_inner_focus_c">@drawable/com_android_music_appwidget_inner_focus_c</item>
+    <item name="drawable/appwidget_inner_focus_l">@drawable/com_android_music_appwidget_inner_focus_l</item>
+    <item name="drawable/appwidget_inner_focus_r">@drawable/com_android_music_appwidget_inner_focus_r</item>
+    <item name="drawable/appwidget_inner_press_c">@drawable/com_android_music_appwidget_inner_press_c</item>
+    <item name="drawable/appwidget_inner_press_l">@drawable/com_android_music_appwidget_inner_press_l</item>
+    <item name="drawable/appwidget_inner_press_r">@drawable/com_android_music_appwidget_inner_press_r</item>
+    <item name="drawable/weather_info_btn_clicked">@drawable/com_google_android_apps_genie_geniewidget_weather_info_btn_clicked</item>
+    <item name="drawable/tab_weather_unselected_press">@drawable/com_google_android_apps_genie_geniewidget_tab_weather_unselected_press</item>
+    <item name="drawable/tab_weather_press">@drawable/com_google_android_apps_genie_geniewidget_tab_weather_press</item>
+    <item name="drawable/tab_weather_focus">@drawable/com_google_android_apps_genie_geniewidget_tab_weather_focus</item>
+    <item name="drawable/appwidget_dark_bg_focus">@drawable/com_google_android_apps_genie_geniewidget_appwidget_dark_bg_focus</item>
+    <item name="drawable/appwidget_dark_bg_press">@drawable/com_google_android_apps_genie_geniewidget_appwidget_dark_bg_press</item>
+    <item name="drawable/menuitem_background_focus">@drawable/frameworks_res_list_selector_background_focus</item>
+    <item name="drawable/menuitem_background_pressed">@drawable/frameworks_res_list_selector_background_pressed</item>
+</resource-redirections>

@@ -51,4 +51,72 @@
         android:minSdkVersion="7"
         android:resource="@xml/com_android_deskclock" />
 
+    <package-redirections android:name="com.android.wallpaper"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_android_wallpaper" />
+
+    <package-redirections android:name="com.android.systemui"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_android_systemui" />
+
+    <package-redirections android:name="com.android.mms"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_android_mms" />
+
+    <package-redirections android:name="com.android.browser"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_android_browser" />
+
+    <package-redirections android:name="com.android.providers.downloads.ui"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_android_providers_downloads_ui" />
+
+    <package-redirections android:name="com.android.calendar"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_android_calendar" />
+
+    <package-redirections android:name="com.android.providers.calendar"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_android_providers_calendar" />
+
+    <package-redirections android:name="com.android.settings"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_android_settings" />
+
+    <package-redirections android:name="com.android.quicksearchbox"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_android_quicksearchbox" />
+
+    <package-redirections android:name="com.android.inputmethod.latin"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_android_inputmethod_latin" />
+
+    <package-redirections android:name="com.cooliris.media"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_cooliris_media" />
+
+    <package-redirections android:name="com.google.android.talk"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_google_android_talk" />
+
+    <package-redirections android:name="com.google.android.gm"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_google_android_gm" />
+
+    <package-redirections android:name="com.google.android.apps.genie.geniewidget"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_google_android_apps_genie_geniewidget" />
+
+    <package-redirections android:name="com.google.android.carhome"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_google_android_carhome" />
+
+    <package-redirections android:name="com.google.android.googlequicksearchbox"
+        android:minSdkVersion="7"
+        android:resource="@xml/com_google_android_googlequicksearchbox" />
+
+    <package-redirections android:name="net.cactii.flash2"
+        android:minSdkVersion="7"
+        android:resource="@xml/net_cactii_flash2" />
+
 </theme-redirections>

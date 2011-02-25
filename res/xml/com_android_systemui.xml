@@ -44,6 +44,10 @@
     <item name="drawable/stat_sys_data_fully_in_e">@drawable/com_android_systemui_stat_sys_data_fully_in_e</item>
     <item name="drawable/stat_sys_data_fully_in_3g">@drawable/com_android_systemui_stat_sys_data_fully_in_3g</item>
     <item name="drawable/stat_sys_data_fully_in_1x">@drawable/com_android_systemui_stat_sys_data_fully_in_1x</item>
+    <item name="drawable/stat_sys_wimax_signal_4_fully">@drawable/com_android_systemui_stat_sys_wimax_signal_4_fully</item>
+    <item name="drawable/stat_sys_wimax_signal_3_fully">@drawable/com_android_systemui_stat_sys_wimax_signal_3_fully</item>
+    <item name="drawable/stat_sys_wimax_signal_2_fully">@drawable/com_android_systemui_stat_sys_wimax_signal_2_fully</item>
+    <item name="drawable/stat_sys_wimax_signal_1_fully">@drawable/com_android_systemui_stat_sys_wimax_signal_1_fully</item>
     <item name="drawable/stat_sys_data_fully_connected_h">@drawable/com_android_systemui_stat_sys_data_fully_connected_h</item>
     <item name="drawable/stat_sys_data_fully_connected_g">@drawable/com_android_systemui_stat_sys_data_fully_connected_g</item>
     <item name="drawable/stat_sys_data_fully_connected_e">@drawable/com_android_systemui_stat_sys_data_fully_connected_e</item>
@@ -51,4 +55,5 @@
     <item name="drawable/stat_sys_data_fully_connected_1x">@drawable/com_android_systemui_stat_sys_data_fully_connected_1x</item>
     <item name="drawable/stat_inner_press">@drawable/com_android_systemui_stat_inner_press</item>
     <item name="drawable/stat_inner_focus">@drawable/com_android_systemui_stat_inner_focus</item>
+    <item name="drawable/title_bar_portrait">@drawable/com_android_systemui_title_bar_portrait</item>
 </resource-redirections>

@@ -44,10 +44,10 @@
     <item name="drawable/stat_sys_data_fully_in_e">@drawable/com_android_systemui_stat_sys_data_fully_in_e</item>
     <item name="drawable/stat_sys_data_fully_in_3g">@drawable/com_android_systemui_stat_sys_data_fully_in_3g</item>
     <item name="drawable/stat_sys_data_fully_in_1x">@drawable/com_android_systemui_stat_sys_data_fully_in_1x</item>
-    <item name="drawable/stat_sys_wimax_signal_4_fully">@drawable/com_android_systemui_stat_sys_wimax_signal_4_fully</item>
-    <item name="drawable/stat_sys_wimax_signal_3_fully">@drawable/com_android_systemui_stat_sys_wimax_signal_3_fully</item>
-    <item name="drawable/stat_sys_wimax_signal_2_fully">@drawable/com_android_systemui_stat_sys_wimax_signal_2_fully</item>
-    <item name="drawable/stat_sys_wimax_signal_1_fully">@drawable/com_android_systemui_stat_sys_wimax_signal_1_fully</item>
+    <item name="drawable/stat_sys_data_wimax_signal_3_fully">@drawable/com_android_systemui_stat_sys_data_wimax_signal_3_fully</item>
+    <item name="drawable/stat_sys_data_wimax_signal_2_fully">@drawable/com_android_systemui_stat_sys_data_wimax_signal_2_fully</item>
+    <item name="drawable/stat_sys_data_wimax_signal_1_fully">@drawable/com_android_systemui_stat_sys_data_wimax_signal_1_fully</item>
+    <item name="drawable/stat_sys_data_wimax_signal_0_fully">@drawable/com_android_systemui_stat_sys_data_wimax_signal_0_fully</item>
     <item name="drawable/stat_sys_data_fully_connected_h">@drawable/com_android_systemui_stat_sys_data_fully_connected_h</item>
     <item name="drawable/stat_sys_data_fully_connected_g">@drawable/com_android_systemui_stat_sys_data_fully_connected_g</item>
     <item name="drawable/stat_sys_data_fully_connected_e">@drawable/com_android_systemui_stat_sys_data_fully_connected_e</item>
